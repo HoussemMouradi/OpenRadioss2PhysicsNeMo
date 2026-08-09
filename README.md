@@ -7,7 +7,7 @@ Using the [OpenRadioss Bumper Beam example](http://openradioss.atlassian.net/wik
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1f0b2f79-35be-4fba-9907-7601a698716e" width="700">
 
-> **Just want the dataset?** The pre-generated training dataset is available on Hugging Face:
+> **Just want the dataset?** The pre-generated training dataset (131 runs) is available on Hugging Face:
 > [AIRBORNEPANDA/BumperBeamCrashExample](https://huggingface.co/datasets/AIRBORNEPANDA/BumperBeamCrashExample)
 
 ---
