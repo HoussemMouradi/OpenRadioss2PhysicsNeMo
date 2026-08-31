@@ -43,7 +43,7 @@ Extract the archive so that the `OpenRadioss/` folder sits alongside this reposi
 
 ### 2. Python
 
-Python 3.8 or later is required.
+Python 3.8 or later.
 
 ### 3. Python Dependencies
 
